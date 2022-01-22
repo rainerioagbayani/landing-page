@@ -1,0 +1,26 @@
+.header-layout {
+    background-image: url("https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/XA6KIXE6FBFM5EWSA25JI5YAU4.jpg");
+    background-size: cover;
+  }
+.main-layout{
+  background-color: #1f2937;
+}
+
+.hero-text{
+  font-size: 48px;
+  font-weight: 800;
+  color: #F9faf8;
+
+}
+
+.quote-layout{
+  background-color: #E5E7EB;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+}
+
+.footer-section{
+  font-size: 18px;
+  color: #e5e7eb;
+}
